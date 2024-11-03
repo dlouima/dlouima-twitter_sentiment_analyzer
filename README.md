@@ -20,7 +20,7 @@ Run the following comments on your terminal
 * python -m nltk.downloader stopwords
 
 2- Run and access the application
- * streamlit run app.py
+ * streamlit run main.py
  * http://localhost:8501 (to access the application)
 
 Alternatively, you can access the online here: https://dlouima-twittersentimentanalyzer-app.streamlit.app/
