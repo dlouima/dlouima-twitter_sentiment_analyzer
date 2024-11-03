@@ -1,12 +1,13 @@
 ## PlayMood AI Sentiment Analysis App getting started guide
 
 1. Prerequisites
-   * Python 3.7+ installed on your system.
-   * Git installed (for cloning the repository from GitHub).
-   * pip (Python package manager) to install required packages.
-   If you don’t have these installed, you can download them from the following links:
-   * Python: https://www.python.org/downloads/
-   * Git: https://git-scm.com/downloads
+* Python 3.7+ installed on your system.
+* Git installed (for cloning the repository from GitHub).
+* pip (Python package manager) to install required packages.
+  
+If you don’t have these installed, you can download them from the following links:
+* Python: https://www.python.org/downloads/
+* Git: https://git-scm.com/downloads
 
 1- clone the repository and project setup.
 Run the following comments on your terminal
