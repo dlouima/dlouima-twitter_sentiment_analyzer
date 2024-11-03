@@ -1,4 +1,4 @@
-##PlayMood AI Sentiment Analysis App getting started guide
+## PlayMood AI Sentiment Analysis App getting started guide
 
 1. Prerequisites
    • Python 3.7+ installed on your system.
